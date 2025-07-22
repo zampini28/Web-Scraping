@@ -41,7 +41,6 @@ source venv/bin/activate
 ```
 
 3. **Instale as dependências necessárias:**
-
    * **Windows:**
 
 ```
@@ -64,7 +63,7 @@ pip install -r requirements.txt
 1. **Execute a aplicação:**
 
 ```
-python github_scraper_gui.py
+python main.py
 ```
 
 2. **Adicione Repositórios:**
